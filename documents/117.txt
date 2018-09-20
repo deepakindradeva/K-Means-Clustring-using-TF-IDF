@@ -1,0 +1,1 @@
+JCL,CICS,COBOL,DataMining,DataWarehouse,Processing,Cloud,DataScience,NeuralNetwork,Association,Classification

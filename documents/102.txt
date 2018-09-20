@@ -1,0 +1,1 @@
+CICS,COBOL,Websphere,IMS,MQ-Queries,ASP,.NET,C#,C,VC++,VB,Technology,Design,Code,VB.NET,Solutions,Project

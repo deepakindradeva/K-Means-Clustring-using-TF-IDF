@@ -1,0 +1,1 @@
+DataMining,DataWarehouse,OLAP,Realation,CoreJava,AWT,Swing,Technology,Design,Clustering,Distributed,Hadoop

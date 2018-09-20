@@ -1,0 +1,1 @@
+MVC,JSON,XML,UML,Spring,Websphere,IMS,MQ-Queries,Software,ASP,.NET,C#,C++,C,VC++,VB,Solaris,IBM,VSAM,OperatingSystems

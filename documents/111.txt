@@ -1,0 +1,1 @@
+Android,PHP,App,Java,OOPs,Software,DBMS,SQL,Database,Oracle,MySQL,SQLServer,ODBC,Cloud,Computing,Drive,Data,Procedural

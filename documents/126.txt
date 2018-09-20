@@ -1,0 +1,1 @@
+JCL,CICS,COBOL,Websphere,IMS,MQ-Queries,Java,OOPs,Software,AWT,Swing,Technology,Design,Code,Hibernate,Tomcat

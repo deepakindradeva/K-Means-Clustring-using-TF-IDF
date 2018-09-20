@@ -1,0 +1,1 @@
+Technology,Design,Code,VB.NET,C#,C++,C,VC++,VB,Solutions,Project,Framework,OLAP,Realation,Engineering,DBA

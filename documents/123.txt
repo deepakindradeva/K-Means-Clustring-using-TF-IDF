@@ -1,0 +1,1 @@
+Data,Procedural,DataMining,DataWarehouse,Python,CoreJava,AWT,Swing,Technology,Design,Code,VB.NET,Solutions,Project,Framework

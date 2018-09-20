@@ -1,0 +1,1 @@
+App,Java,OOPs,Software,Hibernate,Tomcat,MVC,Programming,API,Interface,GUI,Library,DBMS,SQL,SQLServer,ODBC,Cloud,Computing

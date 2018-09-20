@@ -1,0 +1,1 @@
+Python,CoreJava,AWT,Swing,Technology,Website,Development,DataMining,DataWarehouse,OLAP,Realation,Engineering,DBA,IT

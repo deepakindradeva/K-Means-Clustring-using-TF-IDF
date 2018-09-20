@@ -1,0 +1,1 @@
+COBOL,Websphere,IMS,Cloud,DataScience,NeuralNetwork,Association,C,VC++,VB,Python,CoreJava,AWT,Swing,Technology,Design,Code

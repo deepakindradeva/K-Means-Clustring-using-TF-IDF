@@ -1,0 +1,1 @@
+Python,DataScience,NeuralNetwork,DBMS,SQL,DataWarehouse,OLAP,Realation,Engineering,Clustering,Distributed

@@ -1,0 +1,2 @@
+DBA,IT,StoredProcedure,MSACcess,OracleForms,Reports,DB2,Sybase,Recovery,Security,Association,
+Classification,DataMining

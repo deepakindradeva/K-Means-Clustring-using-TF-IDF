@@ -1,0 +1,1 @@
+VSAM,OperatingSystems,Engineering,DBA,IT,StoredProcedure,JCL,CICS,COBOL,Websphere,IMS,MQ-Queries

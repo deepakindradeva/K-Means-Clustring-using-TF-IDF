@@ -1,0 +1,2 @@
+DBMS,SQL,PLSQL,C,Database,Oracle,MySQL,SQLServer,OperatingSystems,OLAP,Realation,Engineering,DBA,IT,StoredProcedure,
+MSACcess,Oracle-Forms,C++

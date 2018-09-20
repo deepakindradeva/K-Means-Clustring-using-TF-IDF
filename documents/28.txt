@@ -1,0 +1,1 @@
+DBMS,SQL,PL-SQL,Database,Oracle,MySQL,SQLServer,ODBC,Android, PHP, Angular-JS, Website, Development

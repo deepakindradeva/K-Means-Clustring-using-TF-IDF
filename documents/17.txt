@@ -1,0 +1,1 @@
+DBA,IT,StoredProcedure,MSACcess,JCL,CICS,COBOL,Oracle-Forms,Reports,DB2, Sybase,Recovery,Security,C#,C++,C,VC++

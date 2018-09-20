@@ -1,0 +1,1 @@
+NeuralNetwork,DataMining,Clustering,Distributed,Hadoop,HDFS,DBMS,SQL,PL-SQL,Database,Oracle

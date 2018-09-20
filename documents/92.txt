@@ -1,0 +1,1 @@
+C#,C++,C,VB.NET,Project,Framework,DBMS,SQL,PL-SQL,Database,Oracle,MySQL,Realation,Engineering,DBA,IT,OperatingSystems,JCL,CICS

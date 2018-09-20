@@ -1,0 +1,1 @@
+.NET, C#,C++,C,VC++,VB,Python,DBMS,SQL,PL-SQL,Database,Oracle

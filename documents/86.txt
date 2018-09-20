@@ -1,0 +1,1 @@
+HTML,CSS,JavaScript,C#,C++,C,DBMS,SQL,PL-SQL,Database,Association,Classification,DataMining,Computing,Drive,Data,Procedural

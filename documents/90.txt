@@ -1,0 +1,1 @@
+HTML,JavaScript,Android,PHP,Website,Development,Java,OOPs,MySQL,SQLServer,ODBC,CoreJava,AWT,Swing,XML,UML

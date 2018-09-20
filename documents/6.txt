@@ -1,0 +1,1 @@
+Mainframe,Solaris,IBM,VSAM,Java,DataMining,OperatingSystems,JCL,CICS,COBOL,Websphere,IMS,MQ-Queries

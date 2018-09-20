@@ -1,0 +1,1 @@
+Java,DataMining,DataWarehouse,OLAP,Python,Realation,Engineering,DBA,IT,StoredProcedure,MSACcess,MySQL,R

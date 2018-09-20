@@ -1,0 +1,1 @@
+PL-SQL,Database,Oracle,MySQL,SQLServer,ODBC,Cloud,C,C++,R,Python
